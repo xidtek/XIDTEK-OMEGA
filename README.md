@@ -54,8 +54,8 @@ if IN_COLAB:
 # CONFIGURACIÓN DE GITHUB PARA AUTO-ACTUALIZACIÓN
 # =============================================================================
 # ¡CAMBIA ESTAS DOS LÍNEAS CON LOS DATOS DE TU REPOSITORIO!
-REPO_OWNER = "XIDTEK-LAB"        # Tu usuario de GitHub
-REPO_NAME = "XIDTEK-OMEGA"       # Nombre de tu repositorio
+REPO_OWNER = "xidtek"           # Tu usuario de GitHub (YA CAMBIADO)
+REPO_NAME = "XIDTEK-OMEGA"      # Nombre de tu repositorio
 
 # =============================================================================
 # MÓDULO DE AUTO-ACTUALIZACIÓN
